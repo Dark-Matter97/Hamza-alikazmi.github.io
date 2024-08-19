@@ -1,0 +1,40 @@
+.post {
+	border: 2px solid;
+	margin: 0 0 40px;
+	padding: 15px;
+	text-align: justify;
+}
+
+#page {
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  background-image:url("https://oceansofgamess.com/wp-content/uploads/2017/12/bg-ocean-1.jpg");
+}
+
+#site-title .headline{
+ float:none;
+ border:0;
+ margin:20px 0;
+ padding:0;
+}
+#logo {
+	float:none;
+    font: bold 395% Verdana,Arial,Helvetica,"Kode Mono","Helvetica Black",Gadget,sans-serif;
+    letter-spacing: -2px;
+}
+img { max-width:100%; height:auto;}		</style>
+		<style>
+.fluid.c2right #primary-content{width:70%;left:30%}
+.fluid.c2right #sidebar{width:30%;left:30%}
+.fluid.c2right #mask-1{right:30%}
+.page-content{max-width:1200px;}
+.media .icon{background: transparent url("https://yt3.googleusercontent.com/fKTsnDgPjhmqgBr7uu2yuV05s5CnCgKxdF8cFJcGtSwBzTHANRI7wD7QfTaACtiq_QY2A_cl8Q=s160-c-k-c0x00ffffff-no-rj") no-repeat center top;}
+#Moto{ 
+  font-weight: bolder;
+  font-size: large;
+  display: inline;
+  position: absolute;
+  border-top: 4px;
+  padding-top: 9%;
+  padding-left:2%;
+}
